@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  SchoolOfGames.cpp
+d:\users\bm\desktop\schoolofgames\schoolofgames\schoolofgames.cpp(21): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+  font.cpp
+  Generating Code...
+  SchoolOfGames.vcxproj -> d:\Users\BM\Desktop\SchoolOfGames\x64\Debug\SchoolOfGames.exe
