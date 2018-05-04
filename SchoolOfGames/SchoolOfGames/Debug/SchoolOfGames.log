@@ -1,2 +1,3 @@
-﻿  Classes.cpp
-  SchoolOfGames.vcxproj -> d:\Users\BM\Desktop\SchoolOfGames\Debug\SchoolOfGames.exe
+﻿  Main.cpp
+c:\users\f.isfarca\desktop\schoolofgames\schoolofgames\main.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SchoolOfGames.vcxproj -> C:\Users\f.isfarca\Desktop\SchoolOfGames\Debug\SchoolOfGames.exe
